@@ -24,11 +24,10 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   max-height: 100vh;
-  /* overflow-y: hidden; */
 }
 .base__content {
   grid-column: 1/2;
-  padding: 1rem 5rem;
+  padding: 1.15rem 5rem;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -45,7 +44,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-  min-height: 100vh;
+  min-height: 100%;
 }
 .base__content .base__logo img {
   width: 6rem;
@@ -115,7 +114,7 @@
 .result {
   color: var(--Soft-Red);
   text-align: center;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: var(--Font-weight4);
   padding: 0.25rem;
 }
