@@ -1,6 +1,7 @@
 # Frontend Mentor - Base Apparel coming soon page solution
 
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Base Apparel coming soon page coding challenge](./design/mobile-design.jpg)
 
 
 This is a solution to the [Base Apparel coming soon page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -77,9 +78,6 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
